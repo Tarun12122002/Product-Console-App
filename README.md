@@ -1,7 +1,7 @@
 # EasyMart: Inventory & Cart System
 
 This is a simple *Java console-based application* where the Admin can manage products and Customers can view them.  
-The project is built using *Oracle JDK* and demonstrates basic Java concepts like classes, objects, ArrayList, and exception handling.
+The project is built using *Eclipse* and demonstrates basic Java concepts like classes, objects, ArrayList, and exception handling.
 
 ---
 
